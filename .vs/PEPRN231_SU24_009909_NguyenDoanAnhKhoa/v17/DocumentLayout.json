@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell G15\\Desktop\\PEPRN231_SU24_009909_NguyenDoanAnhKhoa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF4D1B1-D865-4322-8447-6059CDB12C87}|PEPRN231_SU24_009909_NguyenDoanAnhKhoa_FE\\PEPRN231_SU24_009909_NguyenDoanAnhKhoa_FE.csproj|c:\\users\\dell g15\\desktop\\peprn231_su24_009909_nguyendoananhkhoa\\peprn231_su24_009909_nguyendoananhkhoa_fe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF4D1B1-D865-4322-8447-6059CDB12C87}|PEPRN231_SU24_009909_NguyenDoanAnhKhoa_FE\\PEPRN231_SU24_009909_NguyenDoanAnhKhoa_FE.csproj|solutionrelative:peprn231_su24_009909_nguyendoananhkhoa_fe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4129CD45-AA9B-4A73-8D46-0343B5925E8F}|Repository\\Repository.csproj|c:\\users\\dell g15\\desktop\\peprn231_su24_009909_nguyendoananhkhoa\\repository\\models\\englishpremierleague2024dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4129CD45-AA9B-4A73-8D46-0343B5925E8F}|Repository\\Repository.csproj|solutionrelative:repository\\models\\englishpremierleague2024dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell G15\\Desktop\\PEPRN231_SU24_009909_NguyenDoanAnhKhoa\\PEPRN231_SU24_009909_NguyenDoanAnhKhoa_FE\\Program.cs",
+              "RelativeDocumentMoniker": "PEPRN231_SU24_009909_NguyenDoanAnhKhoa_FE\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell G15\\Desktop\\PEPRN231_SU24_009909_NguyenDoanAnhKhoa\\PEPRN231_SU24_009909_NguyenDoanAnhKhoa_FE\\Program.cs",
+              "RelativeToolTip": "PEPRN231_SU24_009909_NguyenDoanAnhKhoa_FE\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T05:58:31.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnglishPremierLeague2024DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dell G15\\Desktop\\PEPRN231_SU24_009909_NguyenDoanAnhKhoa\\Repository\\Models\\EnglishPremierLeague2024DbContext.cs",
+              "RelativeDocumentMoniker": "Repository\\Models\\EnglishPremierLeague2024DbContext.cs",
+              "ToolTip": "C:\\Users\\Dell G15\\Desktop\\PEPRN231_SU24_009909_NguyenDoanAnhKhoa\\Repository\\Models\\EnglishPremierLeague2024DbContext.cs",
+              "RelativeToolTip": "Repository\\Models\\EnglishPremierLeague2024DbContext.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAkwCEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T05:54:08.578Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Dell G15\\Desktop\\PEPRN231_SU24_009909_NguyenDoanAnhKhoa\\PEPRN231_SU24_009909_NguyenDoanAnhKhoa_FE\\PEPRN231_SU24_009909_NguyenDoanAnhKhoa_FE.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Dell G15\\Desktop\\PEPRN231_SU24_009909_NguyenDoanAnhKhoa\\PEPRN231_SU24_009909_NguyenDoanAnhKhoa_FE\\PEPRN231_SU24_009909_NguyenDoanAnhKhoa_FE.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dell G15\\Desktop\\PEPRN231_SU24_009909_NguyenDoanAnhKhoa\\PEPRN231_SU24_009909_NguyenDoanAnhKhoa_FE\\PEPRN231_SU24_009909_NguyenDoanAnhKhoa_FE.csproj",
+        "projectName": "PEPRN231_SU24_009909_NguyenDoanAnhKhoa_FE",
+        "projectPath": "C:\\Users\\Dell G15\\Desktop\\PEPRN231_SU24_009909_NguyenDoanAnhKhoa\\PEPRN231_SU24_009909_NguyenDoanAnhKhoa_FE\\PEPRN231_SU24_009909_NguyenDoanAnhKhoa_FE.csproj",
+        "packagesPath": "C:\\Users\\Dell G15\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dell G15\\Desktop\\PEPRN231_SU24_009909_NguyenDoanAnhKhoa\\PEPRN231_SU24_009909_NguyenDoanAnhKhoa_FE\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell G15\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
